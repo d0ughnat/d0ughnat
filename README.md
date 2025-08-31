@@ -23,9 +23,6 @@
 ╰──────────────────────────────────────────────╯
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
 
 ---
 
@@ -37,9 +34,6 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25px"/> Current Stack Analysis:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" />
-</p>
 
 ```ascii
 Frontend Arsenal:
@@ -62,13 +56,7 @@ DevOps & Tools:
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px"/> ACTIVITY_LOG.SYS
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" alt="Activity Graph" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
