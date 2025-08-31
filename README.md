@@ -76,17 +76,9 @@ DevOps & Tools:
 ## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35px"/> CONNECT_TO_SERVER
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/nathaniel-ledesma-4547a2283/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-00ff41?style=for-the-badge&logo=About.me&logoColor=black&labelColor=0d1117" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
