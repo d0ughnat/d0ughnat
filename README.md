@@ -1,7 +1,7 @@
 # 👾 Welcome to My GitHub 👾
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300" alt="Pac-Man">
+  <img src="[https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2twZ2NrcjFpM3dkZHN3ZzQ0bTJzMWVsdmphaWFicXprZWE0cDgwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/source.gif)" width="300" alt="Pac-Man">
 </p>
 
 ---
