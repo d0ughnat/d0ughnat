@@ -10,7 +10,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/> SYSTEM_INFO.TXT
 
 ```ascii
 ╭─ WHOAMI ─────────────────────────────────────╮
@@ -26,7 +25,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"/> TECH_ARSENAL.DAT
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,java,git,linux&theme=dark" />
@@ -53,8 +51,6 @@ DevOps & Tools:
 ```
 
 ---
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px"/> ACTIVITY_LOG.SYS
 
 
 
