@@ -1,13 +1,12 @@
 # 👋 Hello, World!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="300" alt="Happy Dog">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300" alt="Pac-Man">
 </p>
 
 ---
 
 ## 🐶 About Me
-- Dog Lover 🐾  
 - Developer 💻  
 - Always learning & building 🚀  
 
