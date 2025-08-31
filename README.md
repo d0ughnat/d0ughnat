@@ -1,7 +1,7 @@
 # 👋 Hello, World!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif" width="250" alt="Cute Dog">
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="300" alt="Happy Dog">
 </p>
 
 ---
