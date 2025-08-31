@@ -1,20 +1,20 @@
-# 👾 Welcome to My GitHub 👾
+# 🐾 Welcome to My GitHub 🐾
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2twZ2NrcjFpM3dkZHN3ZzQ0bTJzMWVsdmphaWFicXprZWE0cDgwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/source.gif)" width="300" alt="Pac-Man">
+  <img src="https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif" width="300" alt="Cute Dog">
 </p>
 
 ---
 
-## 🎮 About Me
-- 🐱 Anime Cat + Pac-Man Enthusiast  
+## 🐶 About Me
+- 🐾 Dog Lover & Anime Fan  
 - 💻 Full-Stack / Frontend Developer  
 - 🌊 Swimmer & Math Geek  
 - 🚀 Always leveling up my code game!  
 
 ---
 
-## 🕹️ Tech Stack Power-Ups
+## 🎮 Tech Stack Power-Ups
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,python,java,linux,postgres,git" />
 </p>
@@ -31,7 +31,7 @@
 
 ## 🎨 Fun Corner
 <p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="250" alt="Anime Cat">
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="250" alt="Dog Anime Vibes">
 </p>
 
-✨ _“Keep coding, keep playing, and never stop chasing the dots.”_ ✨
+✨ _“Code hard, play fetch harder.”_ ✨
