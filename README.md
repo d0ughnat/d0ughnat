@@ -94,10 +94,6 @@ DevOps & Tools:
 └───────────────────────────────────────────────────────────────┘
 ```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=VISITORS&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="Profile Views" />
-</p>
-
 ---
 
 <details>
