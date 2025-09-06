@@ -64,7 +64,7 @@ DevOps & Tools:
 
 ```ascii
 [SYSTEM STATUS]
-├── Coffee Levels     [████████░░] 80%
+├── Vibe Coding     [████████░░] 80%
 ├── Motivation       [██████████] 100% 
 ├── Bug Hunting      [████████░░] 85%
 ├── Learning Mode    [██████████] ACTIVE
