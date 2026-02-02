@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> HELLO_WORLD.EXE
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> HELL YEY
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+digital+realm...;Crafting+code+since+forever...;Building+dreams+in+silicon...;%3E+Status%3A+Always+learning..." alt="Typing SVG" />
